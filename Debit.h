@@ -1,6 +1,4 @@
-//
-// Created by Maou_aur on 28/02/25.
-//
+#include <iostream>
 
 #ifndef DEBIT_H
 #define DEBIT_H
