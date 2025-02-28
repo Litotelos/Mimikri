@@ -1,0 +1,2 @@
+# Mimikri
+Automated Banking Simulator
